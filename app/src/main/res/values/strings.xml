@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclarViewTrial</string>
+    <string name="cheese_burger">Cheese Burger</string>
+    <string name="todo">TODO</string>
+</resources>
