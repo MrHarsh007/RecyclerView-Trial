@@ -1,3 +1,2 @@
 # RecyclerView-Trial
-
-![Screenshot_1650264567](https://user-images.githubusercontent.com/74703957/163768002-0fb52ac0-030a-4f81-9ad0-629db1298521.png)
+https://user-images.githubusercontent.com/74703957/163765795-56248abc-ef00-4d6d-ac25-6daefb310406.png
